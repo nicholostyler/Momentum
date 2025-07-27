@@ -1,0 +1,21 @@
+/build
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+**/crashlytics-build.properties
+**/mapping.txt
+
+# Google Services Plugin
+app/build/generated/res/google-services/
+
+# Gradle & Android Studio
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+signing.properties
+
+# Optional: env files
+.env
+.env.*
